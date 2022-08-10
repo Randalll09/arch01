@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/arch01/static/css/main.f80b6b5b.css",
+    "main.js": "/arch01/static/js/main.f82d0771.js",
+    "index.html": "/arch01/index.html",
+    "main.f80b6b5b.css.map": "/arch01/static/css/main.f80b6b5b.css.map",
+    "main.f82d0771.js.map": "/arch01/static/js/main.f82d0771.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f80b6b5b.css",
+    "static/js/main.f82d0771.js"
+  ]
+}
